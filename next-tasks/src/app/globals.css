@@ -1,0 +1,41 @@
+input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  width: 20%;
+  margin: 0.5rem;
+  box-shadow: 1px 1px 5px #ccc;
+  outline: none;
+}
+
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input[type='number'],
+input[type='number']:hover,
+input[type='number']:focus {
+  appearance: none;
+  -moz-appearance: textfield;
+}
+
+button {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem 0.5rem;
+  min-width: 5%;
+  margin: 0.5rem;
+  box-shadow: 1px 1px 5px #ccc;
+  outline: none;
+}
+h2 {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  width: 20%;
+  margin: 0.5rem;
+  box-shadow: 1px 1px 5px #ccc;
+  outline: none;
+}
+
