@@ -29,13 +29,13 @@ button {
   box-shadow: 1px 1px 5px #ccc;
   outline: none;
 }
+
 h2 {
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 0.5rem 1rem;
-  width: 20%;
+  width: 50%;
   margin: 0.5rem;
   box-shadow: 1px 1px 5px #ccc;
   outline: none;
 }
-
